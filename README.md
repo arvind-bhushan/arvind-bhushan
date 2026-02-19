@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hii, I'm Arvind Bhushan<br><br>💡 Passionate about building scalable web apps & solving real-world problems<br><br>🏆 Codeforces Specialist | LeetCode Knight | CodeChef 4⭐<br><br>📈 Love fast-paced environments — fail fast, learn fast, build fast<br><br>📫 Connect With Me<br><br>💼 LinkedIn: https://www.linkedin.com/in/arvind-bhushan-737425316/<br><br>📧 Email: arvindbhushan001@gmail.com<br><br>⭐ I believe in building impactful products, writing clean code, and continuously improving every single day.
+👋 Hii, I'm Arvind Bhushan<br>💡 Passionate about building scalable web apps & solving real-world problems<br>🏆 Codeforces Specialist | LeetCode Knight | CodeChef 4⭐<br>📈 Love fast-paced environments — fail fast, learn fast, build fast<br>📫 Connect With Me<br>💼 LinkedIn: https://www.linkedin.com/in/arvind-bhushan-737425316/<br>📧 Email: arvindbhushan001@gmail.com<br>⭐ I believe in building impactful products, writing clean code, and continuously improving every single day.
 
 
 ## 🌐 Socials:
