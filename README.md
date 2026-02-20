@@ -16,7 +16,16 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arvind-bhushan&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 
+# 📊 GitHub Stats
 
+<!-- Profile Stats -->
+![](https://github-readme-stats.vercel.app/api?username=arvind-bhushan&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=0)
+
+<!-- Streak Stats (Force Refresh Enabled) -->
+![](https://streak-stats.demolab.com?user=arvind-bhushan&theme=merko&hide_border=false&cache_seconds=0)
+
+<!-- Top Languages -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arvind-bhushan&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=0)
 
 
 ---
